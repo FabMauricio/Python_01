@@ -1,5 +1,7 @@
 #Projeto seguindo as orientações (passo-a-passo) do instrutor
 #Para fins de aprendizado....
+# O objetivo é simular um sistema básico de banco. 
+
 
 import textwrap
 
